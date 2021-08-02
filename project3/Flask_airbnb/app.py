@@ -14,7 +14,7 @@ model = pickle.load(open('model.pkl', 'rb'))
 
 @app.route('/')
 def home():
-    return render_template('Jayesh_abc.html')
+    return render_template('index.html')
 
     
 @app.route('/predict',methods=['POST'])
@@ -28,7 +28,7 @@ def predict():
 
     output = round(prediction[0], 2)
 
-    return render_template('Jayesh_abc.html', prediction_text='Air BnB House prediction price $ {}'.format(output))
+    return render_template('index.html', prediction_text='Air BnB House prediction price $ {}'.format(output))
 
 
 @app.route('/predict_api',methods=['POST'])
