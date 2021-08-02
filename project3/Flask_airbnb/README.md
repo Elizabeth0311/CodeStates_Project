@@ -3,6 +3,7 @@
 2019 New York City Airbnb Open Data를 머신러닝 모델에 적용한 뉴욕 에어비앤비 가격예측 웹 어플리케이션
 
 
+
 ```
 < PROJECT ROOT >
    |
@@ -20,3 +21,4 @@
    |-- model.py                  # 머신러닝 모델 코드
    |
 ```
+
