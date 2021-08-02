@@ -4,9 +4,9 @@
 
 ## Input Info
 > Minimum night : 숙박가능 최소일수 
-> Review : 리뷰 갯수
-> Host count : 호스트 수 
-> Availability : 365일 중 이용가능 일 수
+Review : 리뷰 갯수
+Host count : 호스트 수 
+Availability : 365일 중 이용가능 일 수
 
 ```
 < PROJECT ROOT >
