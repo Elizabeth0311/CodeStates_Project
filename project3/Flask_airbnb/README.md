@@ -2,7 +2,11 @@
 
 2019 New York City Airbnb Open Data를 머신러닝 모델에 적용한 뉴욕 에어비앤비 가격예측 웹 어플리케이션
 
-
+## Input Info
+> Minimum night : 숙박가능 최소일수 
+> Review : 리뷰 갯수
+> Host count : 호스트 수 
+> Availability : 365일 중 이용가능 일 수
 
 ```
 < PROJECT ROOT >
