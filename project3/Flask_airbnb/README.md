@@ -1,6 +1,9 @@
-# Flask를 이용한 Rest API : NewYork AirBnb 가격 예측 
+# Flask Rest API : NewYork AirBnb 가격 예측 
 
-2019 New York City Airbnb Open Data를 머신러닝 모델에 적용한 뉴욕 에어비앤비 가격예측 웹 어플리케이션
+2019 New York City Airbnb Open Data를 이용한 뉴욕 에어비앤비 가격예측 웹 어플리케이션
+
+## Outline 
+2011-2019 뉴욕 에어비엔비 데이터를 머신러닝 회귀모델에 적용시켜 조건에 맞는 예측값을 보여준다. 
 
 ## Input Info
   Minimum night : 숙박가능 최소일수   
@@ -8,6 +11,7 @@
   Host count : 호스트 수   
   Availability : 365일 중 이용가능 일 수
 
+## Code structure
 ```
 < PROJECT ROOT >
    |
