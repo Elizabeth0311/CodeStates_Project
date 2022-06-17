@@ -6,4 +6,4 @@ Section 1. 게임판매 데이터분석
 
 Section 2. 여행객실태조사 데이터를 이용한 1인 여행비용 예측
 
-Section 3. Flask : AirBnB 데이터를 이용한 
+Section 3. Flask : AirBnB 데이터를 이용한 웹 애플리케이션 제작
